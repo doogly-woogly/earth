@@ -32,7 +32,7 @@ import android.view.ScaleGestureDetector;
 // generally how to draw with OpenGL ES 2.0. For easier navigation,
 // almost all code is contained in this single class.
 public class MainActivity extends Activity {
-    static private final String kTag = "Main";
+    static private final String kTag = "GDC11";
 
     // Tweakables.
     private static final boolean kUseMipmaps = true;
