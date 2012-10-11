@@ -31,8 +31,8 @@ import android.view.ScaleGestureDetector;
 // textures, how to do handle touch input, how to use VBOs, and
 // generally how to draw with OpenGL ES 2.0. For easier navigation,
 // almost all code is contained in this single class.
-public class GDC11Activity extends Activity {
-    static private final String kTag = "GDC11";
+public class MainActivity extends Activity {
+    static private final String kTag = "Main";
 
     // Tweakables.
     private static final boolean kUseMipmaps = true;
