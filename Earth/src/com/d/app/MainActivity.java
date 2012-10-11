@@ -7,7 +7,7 @@ import android.widget.*;
 
 public class MainActivity extends Activity
 {
-    /** Called when the activity is first created. */
+    /** Called when the activity is first crhchdheated. */
     @Override
     public void onCreate(Bundle savedInstanceState)
 	{
