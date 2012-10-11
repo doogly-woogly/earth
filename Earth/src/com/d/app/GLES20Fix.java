@@ -1,4 +1,4 @@
-package com.example.gdc11;
+package com.d.app;
 
 public class GLES20Fix {
     native public static void glDrawElements(
